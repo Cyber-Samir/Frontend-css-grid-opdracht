@@ -1,4 +1,4 @@
-# Opdracht beschrijving
+git # Opdracht beschrijving
 
 ## Eindresultaat
 Programmeer de volgende layout voor **desktops**:
@@ -12,8 +12,8 @@ En zorg dat hij er zo uitziet op **mobiele** apparaten:
 ## Randvoorwaarden
 * De afstand _tussen_ de blokken zijn `16px` voor zowel de kolommen als de rijen, op zowel _desktop_ als _mobiel_.
 * Alle drie de kolommen hebben dezelfde breedte (en deze past zich aan aan de scherm-grootte)
-* In blok B staan 150 woorden (_tip_: typ `lorem150` in jouw HTML en druk dan op de tab-toets). Dit blok past zich aan aan de content die erin staat.
-* De afmetingen van de blokken staan vermeld op het screenshot
+* In blok B staan 150 woorden (_tip_: typ ` ` in jouw HTML en druk dan op de tab-toets). Dit blok past zich aan aan de content die erin staat.
+* De afmetingen van de blokken staan vermeld  op het screenshot
 
 ## Stappenplan
 Weet je even niet waar je moet beginnen? 🤯 Volg dan onderstaande stappen:
